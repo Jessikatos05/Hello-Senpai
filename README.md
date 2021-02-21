@@ -1,4 +1,4 @@
-# Hello-Senpai
+# Hello Senpai
 
 ## Concept description
 ## Database diagram
