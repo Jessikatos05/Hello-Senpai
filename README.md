@@ -1,2 +1,5 @@
 # Hello-Senpai
-Electronic Learning Application
+
+## Concept description
+## Database diagram
+## Wire-frames(Draft)
