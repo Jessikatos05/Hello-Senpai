@@ -28,23 +28,23 @@ While developing this application I hope to make learning Japanese more fun and 
 ### Requirements:
 * 1. The user shall be able to know fundamentals of the Japanese Language after completing the first stage of Japanese 101 (beginners)
 	* 1.1 user shall be able to read Japanese characters of the Japanese alphabet after learning them.
-		*1.1.2 User shall be able to read basic words when they learn Hiragana.
-		*1.1.3 User shall be able to read basic words when they learn Katakana.
-  1.2 User shall be able to write the Japanese alphabet after looking at the visual content for stroke orders.
-    1.2.1 User shall be able to write hiragana alphabet after looking at the visual content for stroke orders.
-    1.2.2 User shall be able to write katakana alphabet after looking at the visual content for stroke orders.
-	1.3 User shall be able to memorize and read number 1-1000.
-    1.3.1 user shall be able to read numbers 1- 1000 after finishing the Number Learning objectives in the Numbers module.
-    1.3.2 user shall be able to write numbers after finishing the Number Learning objectives in the Numbers module.
-	1.4 user shall be able to know basic colors to help describe things.
-		1.4.1 user shall be able to read and write places.
-	1.6 user shall be able to read and write sentence structures.
-	1.7 user should know some Kanji characters.
-	1.8 user should be able to speak with the fundamentals that was given in the course.
-	1.9 user should be able to easily navigate through the course.
+		* 1.1.2 User shall be able to read basic words when they learn Hiragana.
+		* 1.1.3 User shall be able to read basic words when they learn Katakana.
+  	* 1.2 User shall be able to write the Japanese alphabet after looking at the visual content for stroke orders.
+   		* 1.2.1 User shall be able to write hiragana alphabet after looking at the visual content for stroke orders.
+   		* 1.2.2 User shall be able to write katakana alphabet after looking at the visual content for stroke orders.
+	* 1.3 User shall be able to memorize and read number 1-1000.
+    		* 1.3.1 user shall be able to read numbers 1- 1000 after finishing the Number Learning objectives in the Numbers module.
+    		* 1.3.2 user shall be able to write numbers after finishing the Number Learning objectives in the Numbers module.
+	*1.4 user shall be able to know basic colors to help describe things.
+		* 1.4.1 user shall be able to read and write places.
+	* 1.6 user shall be able to read and write sentence structures.
+	* 1.7 user should know some Kanji characters.
+	* 1.8 user should be able to speak with the fundamentals that was given in the course.
+	* 1.9 user should be able to easily navigate through the course.
 
 	
-2. The System shall allow user to Login.
+* 2. The System shall allow user to Login.
 	2.1 The system shall verify password.
 	2.2 the system shall detect invalid login.
 		2.2.1 the system shall be able to detect invalid email or User name.
