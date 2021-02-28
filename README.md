@@ -9,3 +9,5 @@ While developing this application I hope to make learning Japanese more fun and 
 ![Alt Text](https://github.com/Jessikatos05/Hello-Senpai/blob/main/design/wireframe2.JPG)
 ![Alt Text](https://github.com/Jessikatos05/Hello-Senpai/blob/main/design/wireframe3.JPG)
 ![Alt Text](https://github.com/Jessikatos05/Hello-Senpai/blob/main/design/wireframe4.JPG)
+
+# Requirements & Use Case
