@@ -17,7 +17,7 @@ While developing this application I hope to make learning Japanese more fun and 
 2.	As a student that easily gets off track or not motivated enough to learn the Japanese language, I need Hello Senpai learning application system to stay on track and motivated to continue to learn the language.
 3.	As a beginner student wanting to learn the Japanese language, I need Hello Senpai learning application system to help me so that I can know the fundamentals of the Japanese Language.
 ### Use-Cases:
-1.	User will be given fundamentals to learning Japanese such as the Japanese alphabet (Hiragana and Katakana), When user practices the two s alphabets then they will be successful at pronouncing and reading some of the basic words in Japanese written in katakana and Hiragana.
+1.	User will be given fundamentals to learning Japanese such as the Japanese alphabet (Hiragana and Katakana), When user practices the two alphabets then they will be successful at pronouncing and reading some of the basic words in Japanese written in katakana and Hiragana.
 2.	User will be given visual content of the stroke orders of Japanese alphabet’s characters. When the user goes over the stroke orders of the characters then they will be able to successfully basic write words in Japanese.
 3.	User will be awarded points when they complete each learning task and will be able to spend the points however they wish to in the rewards shop. Then they will stay motivated to keep learning and stay on task.
 4.	User will be given the opportunity to test their speaking skills to others when they learn the appropriate learning objectives then they will be confident in speaking the Language.
@@ -26,7 +26,7 @@ While developing this application I hope to make learning Japanese more fun and 
 
  
 ### Requirements:
-* 1. The user shall be able to know fundamentals of the Japanese Language after completing the first stage of Japanese 101 (beginners)
+* 1 The user shall be able to know fundamentals of the Japanese Language after completing the first stage of Japanese 101 (beginners)
 	* 1.1 user shall be able to read Japanese characters of the Japanese alphabet after learning them.
 		* 1.1.2 User shall be able to read basic words when they learn Hiragana.
 		* 1.1.3 User shall be able to read basic words when they learn Katakana.
@@ -44,7 +44,7 @@ While developing this application I hope to make learning Japanese more fun and 
 	* 1.9 user should be able to easily navigate through the course.
 
 	
-* 2. The System shall allow user to Login.
+* 2 The System shall allow user to Login.
         * 2.1 The system shall verify password.
 	* 2.2 the system shall detect invalid login.
 		* 2.2.1 the system shall be able to detect invalid email or User name.
