@@ -26,10 +26,10 @@ While developing this application I hope to make learning Japanese more fun and 
 
  
 ### Requirements:
---1. The user shall be able to know fundamentals of the Japanese Language after completing the first stage of Japanese 101 (beginners)
-	--1.1 user shall be able to read Japanese characters of the Japanese alphabet after learning them.
-		--1.1.2 User shall be able to read basic words when they learn Hiragana.
-		--1.1.3 User shall be able to read basic words when they learn Katakana.
+* 1. The user shall be able to know fundamentals of the Japanese Language after completing the first stage of Japanese 101 (beginners)
+	* 1.1 user shall be able to read Japanese characters of the Japanese alphabet after learning them.
+		*1.1.2 User shall be able to read basic words when they learn Hiragana.
+		*1.1.3 User shall be able to read basic words when they learn Katakana.
   1.2 User shall be able to write the Japanese alphabet after looking at the visual content for stroke orders.
     1.2.1 User shall be able to write hiragana alphabet after looking at the visual content for stroke orders.
     1.2.2 User shall be able to write katakana alphabet after looking at the visual content for stroke orders.
