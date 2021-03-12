@@ -66,5 +66,11 @@ While developing this application I hope to make learning Japanese more fun and 
 		* 3.7.2 the system shall allow users to share other post on newsfeed.
 		* 3.7.3 the system shall allow users to like (react) to post on newsfeed.
 
+## Test Requirements
+| Requirement ID | Requirement Description | Test Procedure | Test Result | Time Stamp | Build |
+|----:|:----|:----:|:----:|:----:|:----:|
+| 1 | The user shall be able to know fundamentals of the Japanese Language after completing the first stage of Japanese 101 (beginners) | User Functions | :red_circle: |  |  |
+
+
 
 
