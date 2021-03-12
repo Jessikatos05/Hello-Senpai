@@ -90,6 +90,18 @@ While developing this application I hope to make learning Japanese more fun and 
 | 2.2 | the system shall detect invalid login. |  | :red_circle: |  |  |
 | 2.2.1 | the system shall be able to detect invalid email or User name. |  | :red_circle: |  |  |
 | 2.2.2 | the system shall be able to detect invalid password. |  | :red_circle: |  |  |
+| 3 | The system shall past on reminders to the user . | System Layout | :red_circle: |  |  |
+| 3.1 |	the system shall past reminders to the user to stay on track with learning. |  | :red_circle: |  |  |
+| 3.1.1 | the system shall detect when user is falling behind. |  | :red_circle: |  |  |
+| 3.2 | the system shall be able to past reminders to alert user about the next Module. |  | :red_circle: |  |  |
+| 3.3 | the system shall be able to alert the user they have a new message. |  | :red_circle: |  |  |
+| 3.4 | the system shall be able to remind them their progress. |  | :red_circle: |  |  |
+| 3.5 | the system shall allow user to send messages. |  | :red_circle: |  |  |
+| 3.5.1 | the system shall allow user to search for user to message. |  | :red_circle: |  |  |
+| 3.6 | the system shall allow users to send messages in the chat. |  | :red_circle: |  |  |
+| 3.7.1 | the system shall allow users to comment and reply to post on newsfeed. |  | :red_circle: |  |  |
+| 3.7.2 | the system shall allow users to share other post on newsfeed. |  | :red_circle: |  |  |
+| 3.7.3 | the system shall allow users to like (react) to post on newsfeed. |  | :red_circle: |  |  
 
 
 
