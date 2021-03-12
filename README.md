@@ -70,6 +70,22 @@ While developing this application I hope to make learning Japanese more fun and 
 | Requirement ID | Requirement Description | Test Procedure | Test Result | Time Stamp | Build |
 |----:|:----|:----:|:----:|:----:|:----:|
 | 1 | The user shall be able to know fundamentals of the Japanese Language after completing the first stage of Japanese 101 (beginners) | User Functions | :red_circle: |  |  |
+| 1.1 | user shall be able to read Japanese characters of the Japanese alphabet after learning them.  |  | :red_circle: |  |  |
+| 1.1.2 | User shall be able to read basic words when they learn Hiragana. |  | :red_circle: |  |  |
+| 1.1.3 | User shall be able to read basic words when they learn Katakana. |  | :red_circle: |  |  |
+| 1.2 | User shall be able to write the Japanese alphabet after looking at the visual content for stroke orders. |  | :red_circle: |  |  |
+| 1.2.1 | User shall be able to write hiragana alphabet after looking at the visual content for stroke orders. |  | :red_circle: |  |  |
+| 1.2.2 | User shall be able to write katakana alphabet after looking at the visual content for stroke orders. |  | :red_circle: |  |  |
+| 1.3 | User shall be able to memorize and read number 1-1000. |  | :red_circle: |  |  |
+| 1.3.1 | user shall be able to read numbers 1- 1000 after finishing the Number Learning objectives in the Numbers module. |  | :red_circle: |  |  |
+| 1.3.2 | user shall be able to write numbers after finishing the Number Learning objectives in the Numbers module. |  | :red_circle: |  |  |
+| 1.4 | user shall be able to know basic colors to help describe things. |  | :red_circle: |  |  |
+| 1.4.1 | user shall be able to read and write places. |  | :red_circle: |  |  |
+| 1.6 | user shall be able to read and write sentence structures. |  | :red_circle: |  |  |
+| 1.7 | user should know some Kanji characters. |  | :red_circle: |  |  |
+| 1.8 | user should be able to speak with the fundamentals that was given in the course. |  | :red_circle: |  |  |
+| 1.9 | user should be able to easily navigate through the course. |  | :red_circle: |  |  |
+
 
 
 
