@@ -85,7 +85,6 @@ While developing this application I hope to make learning Japanese more fun and 
 | 1.7 | user should know some Kanji characters. |  | :red_circle: |  |  |
 | 1.8 | user should be able to speak with the fundamentals that was given in the course. |  | :red_circle: |  |  |
 | 1.9 | user should be able to easily navigate through the course. |  | :red_circle: |  |  |
-
 | 2 | The System shall allow user to Login. | User Login | :red_circle: |  |  |
 | 2.1 | The system shall verify password. |  | :red_circle: |  |  |
 | 2.2 | the system shall detect invalid login. |  | :red_circle: |  |  |
