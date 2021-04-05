@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    @Html.ActionLink("Students", "Index", "Students")<br />
+    @Html.ActionLink("Courses", "Index", "Courses")<br />
+    @Html.ActionLink("Lectures", "Index", "Lectures")<br />
+    @Html.ActionLink("Subjects", "Index", "Subjects")
+</div>

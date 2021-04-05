@@ -1,0 +1,6 @@
+C:\Users\jessi\source\repos\HelloSenpai\HelloSenpaiDB\bin\Debug\HelloSenpaiDB.dacpac
+C:\Users\jessi\source\repos\HelloSenpai\HelloSenpaiDB\bin\Debug\HelloSenpaiDB.dll
+C:\Users\jessi\source\repos\HelloSenpai\HelloSenpaiDB\bin\Debug\HelloSenpaiDB.pdb
+C:\Users\jessi\source\repos\HelloSenpai\HelloSenpaiDB\obj\Debug\HelloSenpaiDB.sqlprojAssemblyReference.cache
+C:\Users\jessi\source\repos\HelloSenpai\HelloSenpaiDB\obj\Debug\HelloSenpaiDB.dll
+C:\Users\jessi\source\repos\HelloSenpai\HelloSenpaiDB\obj\Debug\HelloSenpaiDB.pdb
