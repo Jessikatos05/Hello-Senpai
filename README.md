@@ -104,7 +104,7 @@ While developing this application I hope to make learning Japanese more fun and 
 | 3.7.2 | the system shall allow users to share other post on newsfeed. |  | :red_circle: |  |  |
 | 3.7.3 | the system shall allow users to like (react) to post on newsfeed. |  | :red_circle: |  |  
 
-##Database Diagram
+## Database Diagram
 
 ![Alt Text](https://github.com/Jessikatos05/Hello-Senpai/blob/main/HelloSenpaiDB.jfif)
 
