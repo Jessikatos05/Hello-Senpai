@@ -1,0 +1,35 @@
+﻿@{ Layout = "_HSLayout";
+    }
+
+<link href="~/css/newsfeed.css" rel="stylesheet" />
+
+<div class="header">
+    <h2>Newsfeed</h2>
+</div>
+
+<form class="postform" action="submit">
+    <textarea name="userinput" id="userinput" cols="30" rows="10"></textarea>
+    <input type="submit">
+</form>
+
+<div class="content">
+    <!-- For each one of these blocks: for source do user.ProfilePicture  for h6 put User.userName for p put post.description -->
+    @foreach (var user in ViewBag.Users)
+            {
+    <div class="post">
+        <img class="postPic" src="https://source.unsplash.com/random" alt="Profile Picture" width="64px" height="64pxs">
+        <h6>@user.FirstName</h6>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quasi eligendi laboriosam
+            placeat repellat aut perferendis. Magni incidunt facilis, omnis impedit quam rerum delectus
+            vero. Impedit libero incidunt nam, officiis pariatur ut quo, laboriosam, adipisci quidem
+            voluptatum consequatur? Deleniti, repellendus? Numquam quas quod ducimus recusandae repellat
+            iure, odit reiciendis ex!f
+        </p>
+    </div>
+            }
+
+
+
+
+</div>

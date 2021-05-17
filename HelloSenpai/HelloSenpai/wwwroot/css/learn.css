@@ -1,0 +1,38 @@
+﻿
+
+.MainContent {
+    grid-area: MainContent;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr !important;
+    grid-template-rows: 1fr !important;
+}
+
+
+.fourli a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 125px 155px;
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 55px;
+    flex-direction: column;
+    margin: 20px 20px;
+}
+
+.left-block 
+{
+    grid-area: 1/1/2/2;
+    display: flex;
+    flex-direction: column;
+}
+.right-block {
+    grid-area: 1/2/2/3;
+    display: flex;
+    flex-direction: column;
+}
+
+.fourli a:hover, a:visited {
+    background-color: red;
+}

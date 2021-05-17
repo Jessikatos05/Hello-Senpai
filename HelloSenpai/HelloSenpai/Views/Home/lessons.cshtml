@@ -1,0 +1,24 @@
+﻿@{ Layout = "_HSLayout";
+}
+
+<link href="~/css/lessons.css" rel="stylesheet" />
+<div>
+    <table id="Subject">
+        <tr>
+            <th>Subject</th>
+            <th>Course</th>
+            <th>Select</th>
+        </tr>
+        @foreach (var Subject in ViewBag.Users)
+        {
+            <tr>
+
+                <td>@Subject.SubjectName</td>
+                <td>Beginner</td>
+                <td align='center'><form><input type=submit value="Start" style="width:50%"></form></td>
+            </tr>
+        
+        }
+    </table>
+
+</div>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jessi\\source\\repos\\HelloSenpai\\HelloSenpai.Tests\\HelloSenpai.Tests.csproj": {}
+    "C:\\Users\\jessi\\OneDrive\\Desktop\\SD9 Course\\SD9 Course\\HelloSenpaipj\\HelloSenpai\\HelloSenpai.Tests\\HelloSenpai.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jessi\\source\\repos\\HelloSenpai\\HelloSenpai.Tests\\HelloSenpai.Tests.csproj": {
+    "C:\\Users\\jessi\\OneDrive\\Desktop\\SD9 Course\\SD9 Course\\HelloSenpaipj\\HelloSenpai\\HelloSenpai.Tests\\HelloSenpai.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\HelloSenpai\\HelloSenpai.Tests\\HelloSenpai.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\jessi\\OneDrive\\Desktop\\SD9 Course\\SD9 Course\\HelloSenpaipj\\HelloSenpai\\HelloSenpai.Tests\\HelloSenpai.Tests.csproj",
         "projectName": "HelloSenpai.Tests",
-        "projectPath": "C:\\Users\\jessi\\source\\repos\\HelloSenpai\\HelloSenpai.Tests\\HelloSenpai.Tests.csproj",
+        "projectPath": "C:\\Users\\jessi\\OneDrive\\Desktop\\SD9 Course\\SD9 Course\\HelloSenpaipj\\HelloSenpai\\HelloSenpai.Tests\\HelloSenpai.Tests.csproj",
         "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jessi\\source\\repos\\HelloSenpai\\HelloSenpai.Tests\\obj\\",
+        "outputPath": "C:\\Users\\jessi\\OneDrive\\Desktop\\SD9 Course\\SD9 Course\\HelloSenpaipj\\HelloSenpai\\HelloSenpai.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\jessi\\source\\repos\\HelloSenpai\\HelloSenpai\\HelloSenpai.csproj": {
-                "projectPath": "C:\\Users\\jessi\\source\\repos\\HelloSenpai\\HelloSenpai\\HelloSenpai.csproj"
+              "C:\\Users\\jessi\\OneDrive\\Desktop\\SD9 Course\\SD9 Course\\HelloSenpaipj\\HelloSenpai\\HelloSenpai\\HelloSenpai.csproj": {
+                "projectPath": "C:\\Users\\jessi\\OneDrive\\Desktop\\SD9 Course\\SD9 Course\\HelloSenpaipj\\HelloSenpai\\HelloSenpai\\HelloSenpai.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\jessi\\source\\repos\\HelloSenpai\\HelloSenpai\\HelloSenpai.csproj": {
+    "C:\\Users\\jessi\\OneDrive\\Desktop\\SD9 Course\\SD9 Course\\HelloSenpaipj\\HelloSenpai\\HelloSenpai\\HelloSenpai.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\HelloSenpai\\HelloSenpai\\HelloSenpai.csproj",
+        "projectUniqueName": "C:\\Users\\jessi\\OneDrive\\Desktop\\SD9 Course\\SD9 Course\\HelloSenpaipj\\HelloSenpai\\HelloSenpai\\HelloSenpai.csproj",
         "projectName": "HelloSenpai",
-        "projectPath": "C:\\Users\\jessi\\source\\repos\\HelloSenpai\\HelloSenpai\\HelloSenpai.csproj",
+        "projectPath": "C:\\Users\\jessi\\OneDrive\\Desktop\\SD9 Course\\SD9 Course\\HelloSenpaipj\\HelloSenpai\\HelloSenpai\\HelloSenpai.csproj",
         "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jessi\\source\\repos\\HelloSenpai\\HelloSenpai\\obj\\",
+        "outputPath": "C:\\Users\\jessi\\OneDrive\\Desktop\\SD9 Course\\SD9 Course\\HelloSenpaipj\\HelloSenpai\\HelloSenpai\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
