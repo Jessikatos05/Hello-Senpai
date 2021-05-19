@@ -1,4 +1,4 @@
-##Final Project Review
+## Final Project Review
 
 - What did you do right?
 In the end I choose what i was passionate about and i felt that gave me the strenght to keep pushing to get the info i could to keep going. also reaching out to my classmates helped me a lot because it got me close to the answers i was looking for.
