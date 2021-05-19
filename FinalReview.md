@@ -11,6 +11,6 @@ I think i choose a too advanced place to start for the type of application i hav
 i feel like i was lucky that i had some prior knowledge to HTML CSS which i felt was super simple to implement into my project
 
 - What would you change / what do you know now that you wish you knew "then"?
-      - Knowing how to scussefully create the Login Page 
-      - working with an API
+      * Knowing how to scussefully create the Login Page 
+      * working with an API
       
